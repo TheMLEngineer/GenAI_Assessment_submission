@@ -1,1 +1,1 @@
-# GenAI_Assessment_submission
+# Gen AI course assessments are uploaded here for submission
